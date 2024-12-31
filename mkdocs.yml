@@ -1,5 +1,6 @@
 site_name: Cline Automation Extension
 site_description: Documentation for VSCode extension that automates Cline interactions using Claude Sonnet
+site_url: https://karimstekelenburg.github.io/cline-automation/
 repo_url: https://github.com/karimstekelenburg/cline-automation
 repo_name: karimstekelenburg/cline-automation
 
